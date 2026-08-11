@@ -1,0 +1,35 @@
+# === 敏感数据 ===
+敏感数据/
+
+# === 鸿蒙前端（不传）===
+frontend/
+
+# === 环境变量 ===
+.env
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# === Docker ===
+*.log
+
+# === 编辑器 ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.reasonix/
+
+# === 操作系统 ===
+.DS_Store
+Thumbs.db
+
+# === 其他 ===
+.cache/
+node_modules/
